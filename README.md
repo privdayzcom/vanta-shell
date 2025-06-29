@@ -1,6 +1,6 @@
 # VANTA SHELL (Auto Linux Root, Create Windows Admin, Command Bypass, Cgi Telnet)
 
-![banner](https://cdn.privdayz.com/images/icon.png)
+![banner](https://privdayz.com/wp-content/uploads/vanta-shell.jpg)
 
 > **Stealth PHP WAF-bypass toolkit. All-in-one file & command panel.  
 
