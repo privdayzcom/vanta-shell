@@ -19,9 +19,6 @@
 - 🛠 **WordPress Hunter** — Find, read, reset WP admin/users/db
 - 🔑 **Passwd Reader** — /etc/passwd raw dump, multi-read logic
 - 🗄 **Adminer Loader** — Download Adminer DB panel to current dir
-
-> **All features are single-click, UI is keyboard/mobile-friendly and minimal.**
-
 ---
 
 **Legal note:** For legal research, emergency ops, CTF, or lab only.  
